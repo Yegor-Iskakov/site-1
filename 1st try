@@ -1,0 +1,17 @@
+body{
+	margin:0px;
+}
+
+.textcenter{
+	text-align: center;
+}
+h1{
+	font-size: 150px;
+}
+a{
+	bacgrount-color: black;
+	color: white;
+	text-decoration: none;
+	padding: 10px 30px 10px 30px;
+	border-radius: 10px;
+}
